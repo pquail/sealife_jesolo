@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  attendies_3: 1
+  attendies_3_free: 1
+  school_id: 1
+
+two:
+  attendies_3: 1
+  attendies_3_free: 1
+  school_id: 1

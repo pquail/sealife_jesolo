@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  partecipanti_3: 1
+  partecipanti_3_gratis: 1
+  scuola_id: 1
+
+two:
+  partecipanti_3: 1
+  partecipanti_3_gratis: 1
+  scuola_id: 1
